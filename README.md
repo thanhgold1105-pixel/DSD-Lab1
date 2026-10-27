@@ -1,8 +1,8 @@
 # Digital System Design Lab – Lab 1: Basic Combinational Logic Circuits in FPGA using Verilog
 
-**Course:** EE117IU – Digital System Design Laboratory (International University, VNU-HCMC)
-**Instructor:** Dr. Vo Minh Thanh
-**Student:** Đặng Chí Thành – EEEEIU23023
+- **Course:** EE117IU – Digital System Design Laboratory (International University, VNU-HCMC)
+- **Instructor:** Dr. Vo Minh Thanh
+- **Student:** Đặng Chí Thành – EEEEIU23023
 
 Seven basic combinational circuits are described in Verilog HDL with three modeling styles
 (dataflow, behavioral and gate-level/structural), simulated with ModelSim and implemented on an
